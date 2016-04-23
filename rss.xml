@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[niches]]></title>
+        <description><![CDATA[niches]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 10:35:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is a Niche?]]></title>
+            <description><![CDATA[<article><h1>What is a Niche?</h1><p>Niches are segments of a market, as in "niche marketing"! How small could a segment be? It could be just you of course, these days with the big data and algorithms available online. But that is unlikely unless you are very unsual, although we are all individuals are we not?</p></article>]]></description>
+            <link>undefinedwhat-is-a-niche/index.html</link>
+            <guid isPermaLink="false">18d3e9ab-a0c8-4de1-93c4-2d508aa2a15b</guid>
+            <pubDate>Sat, 23 Apr 2016 10:34:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
