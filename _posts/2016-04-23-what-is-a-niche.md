@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Niches are segments of a market, as in "niche marketing"! How small could a segment be? It could be just you of course, these days with the big data and algorithms available online. But that is unlikely unless you are very unsual, although we are all individuals are we not?'
-datePublished: '2016-04-23T10:34:00.113Z'
-dateModified: '2016-04-23T10:33:41.899Z'
+datePublished: '2016-04-24T02:49:54.162Z'
+dateModified: '2016-04-23T10:34:05.691Z'
 title: What is a Niche?
 author: []
+sourcePath: _posts/2016-04-23-what-is-a-niche.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-what-is-a-niche.md
-published: true
 url: what-is-a-niche/index.html
 _type: Article
 
