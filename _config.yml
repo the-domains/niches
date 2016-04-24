@@ -1,9 +1,7 @@
-favicon: null
 name: niches
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2574468
+typography_spectrum: 0.9148936
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: niches  and niche marketing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8957447
-  brandStrength: 0.5680851
-  lightness: 0.4872341
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.5680851
+  lightness: 0.4872341
+  saturation: 0.8957447
   rhythmicContrast: 0.6170213
-typography_spectrum: 0.9148936
-layout_spectrum: 0.2574468
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
